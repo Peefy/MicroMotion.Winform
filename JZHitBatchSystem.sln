@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JZHitBatchSystem", "爱默生质量流量计批量管理系统\JZHitBatchSystem.csproj", "{C754E7E2-20F5-4ECC-BE6C-7537126BCE40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C754E7E2-20F5-4ECC-BE6C-7537126BCE40}.Debug|x86.ActiveCfg = Debug|x86
+		{C754E7E2-20F5-4ECC-BE6C-7537126BCE40}.Debug|x86.Build.0 = Debug|x86
+		{C754E7E2-20F5-4ECC-BE6C-7537126BCE40}.Release|x86.ActiveCfg = Release|x86
+		{C754E7E2-20F5-4ECC-BE6C-7537126BCE40}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E3402E1-D08B-422C-ABA8-1EDA977DD7CE}
+	EndGlobalSection
+EndGlobal
